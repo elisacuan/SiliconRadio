@@ -11,6 +11,16 @@ nav {
   align-items: center;
 }
 
+
+nav a{
+  text-decoration: none;
+  color: black;
+  font-weight:500;
+  font-family: 'Courier New', Courier, monospace;
+  padding: 20px;
+}
+
+
 .navigation{
   color: black;
 }
@@ -35,6 +45,9 @@ nav {
   max-width: 1024px;
   margin: 0 auto;
   font-size: large;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  font-size: 108px;
 }
 
 .logo-area img{
